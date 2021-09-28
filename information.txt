@@ -1,0 +1,8 @@
+correr el servidor
+php -S localhost:8000 <file>
+php -S localhost:8000 index.php
+php -S localhost:8000 src/index.php
+..
+..
+..
+.
